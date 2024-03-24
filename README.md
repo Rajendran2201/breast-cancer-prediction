@@ -45,6 +45,3 @@ This Streamlit app assists medical professionals in diagnosing breast cancer fro
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Rajendran2201/breast-cancer-prediction/blob/main/License.md) file for details.
 
----
-
-Feel free to customize this README according to your project's specific details and requirements.
