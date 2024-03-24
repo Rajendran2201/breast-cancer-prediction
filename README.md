@@ -41,6 +41,11 @@ This Streamlit app assists medical professionals in diagnosing breast cancer fro
 - Plotly
 - NumPy
 - Pickle
+  
+## Screenshots 
+
+ <img width="1440" alt="BREAST CANCER PREDICTION" src="https://github.com/Rajendran2201/breast-cancer-prediction/assets/137254223/3dff5d6c-e45b-4f0d-adac-c398de9dfef2">
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Rajendran2201/breast-cancer-prediction/blob/main/License.md) file for details.
