@@ -43,7 +43,7 @@ This Streamlit app assists medical professionals in diagnosing breast cancer fro
 - Pickle
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Rajendran2201/breast-cancer-prediction/blob/main/License.md) file for details.
 
 ---
 
